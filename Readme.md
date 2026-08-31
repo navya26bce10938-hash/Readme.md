@@ -26,5 +26,5 @@
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/navya-manglik-292590427)
-- **Email:** [your.email@example.com](mailto:navya.26bce10938@vitbhopal.ac.in)
+- **LinkedIn:**(www.linkedin.com/in/navya-manglik-292590427)
+- **Email:** (navya.26bce10938@vitbhopal.ac.in)
