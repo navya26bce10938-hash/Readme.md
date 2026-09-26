@@ -6,17 +6,15 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently learning: **Data Structures, C/C++, and Web Development**
+- 🔭 I’m currently learning: **Data Structures, python, java , and Web Development**
 - 🎯 Goals for this year: Build strong coding fundamentals and contribute to open-source
 - 💬 Ask me about: Getting started with coding or campus life
-- ⚡ Fun fact: When I'm not coding, I enjoy [your hobby, e.g., reading / sketching / gaming]
+- ⚡ Fun fact: When I'm not coding, I enjoy [your hobby, e.g., reading, sketching, dancing, and cooking.]
 
 ---
 
 ### 🛠️ Tech & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
